@@ -6,7 +6,7 @@ SYST10049 Web Development - Fall 2020
 Given the
 * [output (how the page renders)]()
 * [actual content of the letter](content.txt)
-* [starting HTML code with comments]()
+* [starting HTML code with comments](start_letter.txt)
 
 Use the comments to determine what the requirements are and implement by selecting semantically correct elements.
 
