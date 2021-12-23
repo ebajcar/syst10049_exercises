@@ -1,22 +1,8 @@
-## Welcome to SYST10049 Exercise Pages
+# Welcome to SYST10049 Exercise Pages
 
 
-```markdown
-Syntax highlighted code block
+### Available exercises
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+See class Piazza Q&amp;A for instructions and discussions.
 
