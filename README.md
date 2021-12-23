@@ -1,13 +1,16 @@
-SYST10049 Web Development
-## Exercises
+# Welcome to SYST10049 Exercise Pages
 
 
-###  [Mark up a letter](markup_letter/markup_letter.md)
+### Available exercises
+
+
+See class Piazza Q&amp;A for instructions and discussions.
+
 
 
 
 ---
 
-> Web Development @ Sheridan College
+> SYST10049 Web Development @ Sheridan College
 
 
