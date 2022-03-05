@@ -7,8 +7,6 @@
 See class Piazza Q&amp;A for instructions and discussions.
 
 
-
-
 ---
 
 > SYST10049 Web Development @ Sheridan College
