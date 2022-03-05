@@ -1,7 +1,7 @@
-# Welcome to SYST10049 Exercise Pages
+# Welcome to SYST10049  Pages
 
 
-### Available exercises
+### Available material
 
 
 See class Piazza Q&amp;A for instructions and discussions.
